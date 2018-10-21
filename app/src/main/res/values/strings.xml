@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Where\'s My Bus</string>
+    <string name="client_id">268953812995-vd9em4ht6qc5291r4t6k65qc0bjk1ior.apps.googleusercontent.com</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
